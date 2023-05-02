@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Küçük</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
+<h5 align="center">Your safety is my top priority as we navigate the dark sides of the cyber world. At the same time, by working behind the code, I strengthen backend systems to improve your user experience.</h5>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
