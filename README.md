@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berk Küçük</h1># 💫 About Me:
+<h1 align="center">Hi 👋, I'm Berk Küçük</h1>
 Your safety is my top priority as we navigate the dark sides of the cyber world. At the same time, by working behind the code, I strengthen backend systems to improve your user experience.<br><br>
 
 
