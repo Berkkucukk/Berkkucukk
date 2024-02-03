@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berk Küçük</h1>
-Your safety is my top priority as we navigate the dark sides of the cyber world. At the same time, by working behind the code, I strengthen backend systems to improve your user experience.<br><br>
+🚀 Welcome to Berk Küçük's GitHub! 🤖🔒
 
+### About Me
+Hey! I'm Berk, a developer passionate about AI and Cybersecurity.
+
+### What You'll Find Here
+🔐 **Cybersecurity & AI:** My projects focus on creating innovative solutions in cybersecurity and AI.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkkucukk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkkucukk) 
