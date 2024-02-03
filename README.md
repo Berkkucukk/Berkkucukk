@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk Küçük</h1>
 
-### About Me
-Hey! I'm Berk, a developer passionate about AI and Cybersecurity.
-
 ### What You'll Find Here
 🔐 **Cybersecurity & AI:** My projects focus on creating innovative solutions in cybersecurity and AI.
 
