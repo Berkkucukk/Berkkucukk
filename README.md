@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berk Küçük</h1>
-🚀 Welcome to Berk Küçük's GitHub! 🤖🔒
-
 ### About Me
 Hey! I'm Berk, a developer passionate about AI and Cybersecurity.
 
