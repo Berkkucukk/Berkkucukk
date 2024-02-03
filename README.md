@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Berk Küçük</h1>
-
 ### What You'll Find Here
 🔐 **Cybersecurity & AI:** My projects focus on creating innovative solutions in cybersecurity and AI.
 
